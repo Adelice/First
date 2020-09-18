@@ -1,0 +1,3 @@
+[submodule "Third"]
+	path = Third
+	url = https://github.com/Adelice/Third.git
